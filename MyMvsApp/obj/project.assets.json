@@ -4716,11 +4716,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MVC\\MyMvsApp\\MyMvsApp.csproj",
+      "projectUniqueName": "D:\\MVC\\ASP.NET-DiaryApp\\MyMvsApp\\MyMvsApp.csproj",
       "projectName": "MyMvsApp",
-      "projectPath": "D:\\MVC\\MyMvsApp\\MyMvsApp.csproj",
+      "projectPath": "D:\\MVC\\ASP.NET-DiaryApp\\MyMvsApp\\MyMvsApp.csproj",
       "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-      "outputPath": "D:\\MVC\\MyMvsApp\\obj\\",
+      "outputPath": "D:\\MVC\\ASP.NET-DiaryApp\\MyMvsApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jason\\AppData\\Roaming\\NuGet\\NuGet.Config"
