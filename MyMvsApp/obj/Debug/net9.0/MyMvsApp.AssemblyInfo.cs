@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyMvsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b790b982cc623de69ae6ef848b8018ffe056ba7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0949d0a224cdbe996704511a528f182c2c7cffc")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyMvsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyMvsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

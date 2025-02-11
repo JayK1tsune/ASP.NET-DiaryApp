@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using MyMvsApp.Data;
 
@@ -11,9 +12,11 @@ using MyMvsApp.Data;
 namespace MyMvsApp.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250211123107_AddedSeededDataDiaryEntry")]
+    partial class AddedSeededDataDiaryEntry
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -50,21 +53,21 @@ namespace MyMvsApp.Migrations
                         {
                             Id = 1,
                             Content = "This is the first entry in the diary.",
-                            Created = new DateTime(2021, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Created = new DateTime(2025, 2, 11, 12, 31, 6, 9, DateTimeKind.Local).AddTicks(2739),
                             Title = "First Entry"
                         },
                         new
                         {
                             Id = 2,
                             Content = "This is the second entry in the diary.",
-                            Created = new DateTime(2021, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Created = new DateTime(2025, 2, 11, 12, 31, 6, 9, DateTimeKind.Local).AddTicks(3069),
                             Title = "Second Entry"
                         },
                         new
                         {
                             Id = 3,
                             Content = "This is the third entry in the diary.",
-                            Created = new DateTime(2021, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Created = new DateTime(2025, 2, 11, 12, 31, 6, 9, DateTimeKind.Local).AddTicks(3073),
                             Title = "Third Entry"
                         });
                 });
