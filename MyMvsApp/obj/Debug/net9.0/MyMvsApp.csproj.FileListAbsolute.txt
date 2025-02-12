@@ -387,7 +387,6 @@ D:\MVC\ASP.NET-DiaryApp\MyMvsApp\obj\Debug\net9.0\compressed\kiq83jtnc7-tdbxkamp
 D:\MVC\ASP.NET-DiaryApp\MyMvsApp\obj\Debug\net9.0\compressed\s992ueffv8-j5mq2jizvt.gz
 D:\MVC\ASP.NET-DiaryApp\MyMvsApp\obj\Debug\net9.0\compressed\c0ep1jkyp6-06098lyss8.gz
 D:\MVC\ASP.NET-DiaryApp\MyMvsApp\obj\Debug\net9.0\compressed\aauwxii0zm-nvvlpmu67g.gz
-D:\MVC\ASP.NET-DiaryApp\MyMvsApp\obj\Debug\net9.0\compressed\uw6rc9a748-s35ty4nyc5.gz
 D:\MVC\ASP.NET-DiaryApp\MyMvsApp\obj\Debug\net9.0\compressed\klwn64j51b-pj5nd1wqec.gz
 D:\MVC\ASP.NET-DiaryApp\MyMvsApp\obj\Debug\net9.0\compressed\tk4eazrgxf-46ein0sx1k.gz
 D:\MVC\ASP.NET-DiaryApp\MyMvsApp\obj\Debug\net9.0\compressed\lgkghwq2ut-v0zj4ognzu.gz
@@ -439,3 +438,4 @@ D:\MVC\ASP.NET-DiaryApp\MyMvsApp\obj\Debug\net9.0\refint\MyMvsApp.dll
 D:\MVC\ASP.NET-DiaryApp\MyMvsApp\obj\Debug\net9.0\MyMvsApp.pdb
 D:\MVC\ASP.NET-DiaryApp\MyMvsApp\obj\Debug\net9.0\MyMvsApp.genruntimeconfig.cache
 D:\MVC\ASP.NET-DiaryApp\MyMvsApp\obj\Debug\net9.0\ref\MyMvsApp.dll
+D:\MVC\ASP.NET-DiaryApp\MyMvsApp\obj\Debug\net9.0\compressed\uw6rc9a748-lfrhgd6ea6.gz

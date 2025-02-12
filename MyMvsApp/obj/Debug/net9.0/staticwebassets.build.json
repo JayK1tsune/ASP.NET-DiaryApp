@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qzjef6Uh7gsSh61ucVa2A5KafgCPbarGocP2/YNr4gQ=",
+  "Hash": "RaBEoqL9CbzWghbHYvNOBvnPz0vtx/mRtucTL/33Ln4=",
   "Source": "MyMvsApp",
   "BasePath": "_content/MyMvsApp",
   "Mode": "Default",
@@ -1193,12 +1193,12 @@
       "OriginalItemSpec": "D:\\MVC\\ASP.NET-DiaryApp\\MyMvsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\MVC\\ASP.NET-DiaryApp\\MyMvsApp\\obj\\Debug\\net9.0\\compressed\\uw6rc9a748-s35ty4nyc5.gz",
+      "Identity": "D:\\MVC\\ASP.NET-DiaryApp\\MyMvsApp\\obj\\Debug\\net9.0\\compressed\\uw6rc9a748-lfrhgd6ea6.gz",
       "SourceId": "MyMvsApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\MVC\\ASP.NET-DiaryApp\\MyMvsApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyMvsApp",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint=s35ty4nyc5}]?.css.gz",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint=lfrhgd6ea6}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1207,8 +1207,8 @@
       "RelatedAsset": "D:\\MVC\\ASP.NET-DiaryApp\\MyMvsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jw1qs72mo9",
-      "Integrity": "I0QuKxdK89NxyamT6EeIfl/MyifdDw+D8cUjkiXwoOU=",
+      "Fingerprint": "57ihwz31we",
+      "Integrity": "n43HCnpj1Y2aA+/x+mCbXvI350dKiYe2ULzEQMhMDOk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\MVC\\ASP.NET-DiaryApp\\MyMvsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
@@ -1984,8 +1984,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "s35ty4nyc5",
-      "Integrity": "GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=",
+      "Fingerprint": "lfrhgd6ea6",
+      "Integrity": "3xbbwFwuLreyfHllXxAcPH6GfOFs1AqxACulzrIfS0k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
@@ -10775,12 +10775,12 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "D:\\MVC\\ASP.NET-DiaryApp\\MyMvsApp\\obj\\Debug\\net9.0\\compressed\\uw6rc9a748-s35ty4nyc5.gz",
+      "AssetFile": "D:\\MVC\\ASP.NET-DiaryApp\\MyMvsApp\\obj\\Debug\\net9.0\\compressed\\uw6rc9a748-lfrhgd6ea6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000030073379"
+          "Quality": "0.000030619431"
         }
       ],
       "ResponseHeaders": [
@@ -10790,15 +10790,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33251"
+          "Value": "32658"
         },
         {
           "Name": "ETag",
-          "Value": "\"I0QuKxdK89NxyamT6EeIfl/MyifdDw+D8cUjkiXwoOU=\""
+          "Value": "\"n43HCnpj1Y2aA+/x+mCbXvI350dKiYe2ULzEQMhMDOk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:40:24 GMT"
+          "Value": "Wed, 12 Feb 2025 13:06:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10818,13 +10818,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+          "Value": "W/\"3xbbwFwuLreyfHllXxAcPH6GfOFs1AqxACulzrIfS0k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+          "Value": "sha256-3xbbwFwuLreyfHllXxAcPH6GfOFs1AqxACulzrIfS0k="
         }
       ]
     },
@@ -10839,7 +10839,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "281046"
+          "Value": "238593"
         },
         {
           "Name": "Content-Type",
@@ -10847,11 +10847,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+          "Value": "\"3xbbwFwuLreyfHllXxAcPH6GfOFs1AqxACulzrIfS0k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:40:24 GMT"
+          "Value": "Wed, 12 Feb 2025 13:06:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10861,13 +10861,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+          "Value": "sha256-3xbbwFwuLreyfHllXxAcPH6GfOFs1AqxACulzrIfS0k="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.gz",
-      "AssetFile": "D:\\MVC\\ASP.NET-DiaryApp\\MyMvsApp\\obj\\Debug\\net9.0\\compressed\\uw6rc9a748-s35ty4nyc5.gz",
+      "AssetFile": "D:\\MVC\\ASP.NET-DiaryApp\\MyMvsApp\\obj\\Debug\\net9.0\\compressed\\uw6rc9a748-lfrhgd6ea6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10876,7 +10876,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33251"
+          "Value": "32658"
         },
         {
           "Name": "Content-Type",
@@ -10884,11 +10884,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"I0QuKxdK89NxyamT6EeIfl/MyifdDw+D8cUjkiXwoOU=\""
+          "Value": "\"n43HCnpj1Y2aA+/x+mCbXvI350dKiYe2ULzEQMhMDOk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:40:24 GMT"
+          "Value": "Wed, 12 Feb 2025 13:06:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10906,7 +10906,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-I0QuKxdK89NxyamT6EeIfl/MyifdDw+D8cUjkiXwoOU="
+          "Value": "sha256-n43HCnpj1Y2aA+/x+mCbXvI350dKiYe2ULzEQMhMDOk="
         }
       ]
     },
@@ -11205,6 +11205,167 @@
         {
           "Name": "integrity",
           "Value": "sha256-M4d5aODk+LnhCUggc/Xb6RX+Jh4E7X4KN58JXJR757I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.lfrhgd6ea6.css",
+      "AssetFile": "D:\\MVC\\ASP.NET-DiaryApp\\MyMvsApp\\obj\\Debug\\net9.0\\compressed\\uw6rc9a748-lfrhgd6ea6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000030619431"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32658"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n43HCnpj1Y2aA+/x+mCbXvI350dKiYe2ULzEQMhMDOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 13:06:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3xbbwFwuLreyfHllXxAcPH6GfOFs1AqxACulzrIfS0k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lfrhgd6ea6"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3xbbwFwuLreyfHllXxAcPH6GfOFs1AqxACulzrIfS0k="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.lfrhgd6ea6.css",
+      "AssetFile": "D:\\MVC\\ASP.NET-DiaryApp\\MyMvsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238593"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3xbbwFwuLreyfHllXxAcPH6GfOFs1AqxACulzrIfS0k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 13:06:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lfrhgd6ea6"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3xbbwFwuLreyfHllXxAcPH6GfOFs1AqxACulzrIfS0k="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.lfrhgd6ea6.css.gz",
+      "AssetFile": "D:\\MVC\\ASP.NET-DiaryApp\\MyMvsApp\\obj\\Debug\\net9.0\\compressed\\uw6rc9a748-lfrhgd6ea6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n43HCnpj1Y2aA+/x+mCbXvI350dKiYe2ULzEQMhMDOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 13:06:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lfrhgd6ea6"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n43HCnpj1Y2aA+/x+mCbXvI350dKiYe2ULzEQMhMDOk="
         }
       ]
     },
@@ -12993,167 +13154,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-Bhl6D0ngVAgx68NwXp2DEDO390PSrA5dlFHCQXY4WgM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css",
-      "AssetFile": "D:\\MVC\\ASP.NET-DiaryApp\\MyMvsApp\\obj\\Debug\\net9.0\\compressed\\uw6rc9a748-s35ty4nyc5.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000030073379"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33251"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"I0QuKxdK89NxyamT6EeIfl/MyifdDw+D8cUjkiXwoOU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:40:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css",
-      "AssetFile": "D:\\MVC\\ASP.NET-DiaryApp\\MyMvsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "281046"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:40:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css.gz",
-      "AssetFile": "D:\\MVC\\ASP.NET-DiaryApp\\MyMvsApp\\obj\\Debug\\net9.0\\compressed\\uw6rc9a748-s35ty4nyc5.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33251"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"I0QuKxdK89NxyamT6EeIfl/MyifdDw+D8cUjkiXwoOU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 13:40:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-I0QuKxdK89NxyamT6EeIfl/MyifdDw+D8cUjkiXwoOU="
         }
       ]
     },
