@@ -1,3 +1,37 @@
-<h1>
-Welcome to the Create Diary Entry Page
-</h1>
+@model DiaryEntry
+
+<div class=" container">
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <div class="card-header bg-primary text-white">
+                <h2>Create new Diary Entry</h2>
+            </div>
+            <div class="card-body">
+                <form asp-action="Create" method="post">
+                    <div class="form-group mb-3">
+                        <label asp-for="Title" class="form-label">Title</label>
+                        <input asp-for="Title" class="form-control" placeholder="Enter a Title" />
+                        <span asp-validation-for="Title" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-3">
+                        <label asp-for="Content" class="form-label">Content</label>
+                        <input asp-for="Content" row="5" class="form-control" placeholder="Enter Your Diary Entry" />
+                        <span asp-validation-for="Content" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-3">
+                        <label asp-for="Created" class="form-label">Date</label>
+                        <input asp-for="Created" class="form-control" type="date" />
+                        <span asp-validation-for="Created" class="text-danger"></span>
+                    </div>
+                    <div class="d-felx justify-content-between">
+                        <button type="submit" class="btn btn-primary">Create</button>
+                        <a asp-controller="DiaryEntries" asp-action="Index" class="btn btn-danger">Cancel</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

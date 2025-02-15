@@ -33,6 +33,13 @@ namespace MyMvsApp.Controllers
         {
             return View();
         }
+        [HttpPost]
+        public IActionResult Create(DiaryEntry obj)
+        {
+            _context.DiaryEntries.Add(obj); // Add the object to the database
+            _context.SaveChanges(); // Save the changes
+            return RedirectToAction("Index"); // send the user back to the Index page of current controller
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
